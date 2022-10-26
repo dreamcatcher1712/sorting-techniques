@@ -34,3 +34,10 @@ int main() {
   printf("Sorted array in ascending order:\n");
   printArray(data, size);
 }
+
+
+TIME COMPLEXITY: 
+Best Case: O(n)
+Worst	Case: O(n2)
+Average	Case: O(n2)
+SPACE COMPLEXITY: O(1)
